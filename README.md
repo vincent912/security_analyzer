@@ -26,3 +26,9 @@ Added the following files:
       Prepare_LinR.py - Takes a *_features.csv file generate by Generate_Features.py and reformats the csv to be fed into a linear regression model.
       
       VOO_features_prepared_lin.csv - An example of the type of csv that Prepare_LinR.py outputs.
+      
+3/25/2020
+
+Updated:
+      Generate_Features.py - style and usage improvements, added more potential labels
+      VOO_features.csv - an updated look at what Generate_Features.py should update
