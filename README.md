@@ -30,5 +30,17 @@ Added the following files:
 3/25/2020
 
 Updated:
+
       Generate_Features.py - style and usage improvements, added more potential labels
+
       VOO_features.csv - an updated look at what Generate_Features.py should update
+
+3/27/2020
+
+Renamed:
+
+	Prepare_LinR.py to Prepare_Features. This now standardizes features and exports those to a CSV. This also exports all targets, Days_Change, GreenRed, and Next_Close to another CSV.
+
+Added:
+
+	Data_Exploration.ipynb - A python3 notebook that I used to visualize the data and distributions/correlation of the features generated.
